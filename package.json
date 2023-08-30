@@ -1,0 +1,25 @@
+{
+  "name": "seaper",
+  "version": "0.3.0",
+  "description": "Seaper Powered By Xiaoyi311 & SWS",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seaper-Team/Seaper.git"
+  },
+  "author": "Xiaoyi311 & SWS",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Seaper-Team/Seaper/issues"
+  },
+  "homepage": "https://github.com/Seaper-Team/Seaper#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "log4js": "^6.9.1",
+    "string-random": "^0.1.3"
+  }
+}
